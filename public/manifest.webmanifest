@@ -1,0 +1,17 @@
+{
+    "background_color": "#6603fc",
+    "description": "Shopping",
+    "icons": [
+        {
+            "color": "#6603fc",
+            "src": "icon/basketLogo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "بازاری ئۆنلاین",
+    "short_name": "SmartMed",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
